@@ -9,7 +9,7 @@ public class App {
 	}
 	
 	public void addedMethod(){
-		System.out.println("New Method");
+		System.out.println("New Method Amit Kumar");
 	}
 
 	public static void main(String[] args) {
