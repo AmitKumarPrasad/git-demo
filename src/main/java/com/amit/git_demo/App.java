@@ -1,13 +1,9 @@
 package com.amit.git_demo;
 
-/**
- * Hello world!
- *
- */
 public class App {
 	public void addData(String data) {
-		System.out.println("data -" + data);
-		if (data.equals("Amit Kumar")) {
+
+		if (data.equals(Constant.DATA_TYPE)) {
 			System.out.println("Welcome");
 		}
 	}
